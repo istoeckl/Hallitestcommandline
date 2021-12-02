@@ -1,0 +1,2 @@
+# Hallitestcommandline
+To learn GIT
